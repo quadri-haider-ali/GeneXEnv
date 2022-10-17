@@ -1,0 +1,4 @@
+button:focus,button:hover{
+    /* background-color: white; */
+    outline:none;
+}
